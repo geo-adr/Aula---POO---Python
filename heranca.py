@@ -1,5 +1,7 @@
 class Animal:
-    # Permite que uma nova classe (filha ou subclasse) herde características e comportamentos (atributos e métodos)
+    # Permite que uma nova classe (filha ou
+    # subclasse) herde características e
+    # comportamentos (atributos e métodos)
     # de uma classe existente (pai ou superclasse).
     def __init__(self, nome):
         self.nome = nome
